@@ -1,0 +1,9 @@
+body {background-image: url(../imagenes/milanga.jpg);}
+
+h1 { color: blue;
+    font-size: 70px;text-decoration: underline;
+}
+.sub{ text-align: center; color:green;text-decoration: underline;}
+li {color: yellow;}
+
+img {width: 300px;height: auto;}
