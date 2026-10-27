@@ -6,4 +6,13 @@ h1 { color: blue;
 .sub{ text-align: center; color:green;text-decoration: underline;}
 li {color: yellow;}
 
-img {width: 300px;height: auto;}
+img {width: 200px;height: auto;}
+header{display: flex;justify-content: space-between;
+        align-items: center;flex-wrap: wrap;}
+.redes{width:100px;height: 100px}
+.logo{border-radius: 50%}
+
+footer{display: flex;justify-content: space-between;
+align-items: center;flex-wrap: wrap;}
+.mapi{width: 250px;
+       height: 250px}
